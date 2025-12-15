@@ -61,8 +61,9 @@ Una possibile organizzazione dei file è la seguente:
 Tutorial/
 │── README.md
 │── esercitazione.R
-│── data/
-│   └── dataset_omico.csv
+│── Dataset_prova_workshop.txt
+│── Info_Serie_Combinate.csv
+
 ```
 
 *(La struttura può variare in base ai file effettivamente distribuiti durante il tutorial.)*
